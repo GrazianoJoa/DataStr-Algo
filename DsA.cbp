@@ -31,17 +31,17 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
+		<Unit filename="src/main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="tree.c">
+		<Unit filename="src/DS/tree.c">
 			<Option compilerVar="CC" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="tree.h">
+		<Unit filename="src/DS/tree.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="treeEx.c">
+		<Unit filename="src/DS/treeEx.c">
 			<Option compilerVar="CC" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
