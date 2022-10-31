@@ -31,18 +31,21 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="main.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="tree.c">
+		<Unit filename="src/linked-lists/sLinkedList.c">
 			<Option compilerVar="CC" />
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="tree.h">
+		<Unit filename="src/linked-lists/sLinkedList.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
-		<Unit filename="treeEx.c">
+		<Unit filename="src/main.c">
 			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="src/trees/BSTree.c">
+			<Option compilerVar="CC" />
+			<Option target="&lt;{~None~}&gt;" />
+		</Unit>
+		<Unit filename="src/trees/BSTree.h">
 			<Option target="&lt;{~None~}&gt;" />
 		</Unit>
 		<Extensions>

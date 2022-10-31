@@ -6,3 +6,35 @@
 
 1666809716 c:\users\usuario\downloads\c,c++\dsa\tree.h
 
+1667193909 source:c:\users\usuario\downloads\c,c++\datastr-algo\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linked-lists/sLinkedList.c"
+
+1666847776 c:\users\usuario\downloads\c,c++\datastr-algo\src\ds\tree.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1666847742 c:\users\usuario\downloads\c,c++\datastr-algo\src\ds\tree.h
+
+1666847691 c:\users\usuario\downloads\c,c++\datastr-algo\src\ds\treeex.c
+	<stdio.h>
+	<stdlib.h>
+	"tree.h"
+
+1667193002 c:\users\usuario\downloads\c,c++\datastr-algo\src\trees\bstree.c
+	<stdio.h>
+	<stdlib.h>
+	"BSTree.h"
+
+1667103301 c:\users\usuario\downloads\c,c++\datastr-algo\src\trees\bstree.h
+	<stdbool.h>
+
+1667194644 c:\users\usuario\downloads\c,c++\datastr-algo\src\linked-lists\slinkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	"sLinkedList.h"
+
+1667193885 c:\users\usuario\downloads\c,c++\datastr-algo\src\linked-lists\slinkedlist.h
+
